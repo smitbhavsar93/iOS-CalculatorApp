@@ -14,3 +14,4 @@ The open source template and/or images I used was from here GitHub, whereby I cl
 work. I owe credit to them for allowing me to use their images, however everything thereby was hardcoded by yours truly. Link to the template is : https://github.com/appbrewery/Calculator-Layout-iOS13 made by AppBrewery.
 
 
+
