@@ -12,3 +12,5 @@ To download Xcode 12.3, visit : https://developer.apple.com/xcode/ and download 
 ## Template Credits
 The open source template and/or images I used was from here GitHub, whereby I cloned their existing project to acquire the images that I needed to make this app
 work. I owe credit to them for allowing me to use their images, however everything thereby was hardcoded by yours truly. Link to the template is : https://github.com/appbrewery/Calculator-Layout-iOS13 made by AppBrewery.
+
+
